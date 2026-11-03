@@ -1,0 +1,1 @@
+Deployka build: 96 local tests passed, including 7 hosting-bootstrap tests. Real deployment and subscription login on Deployka have not been tested.
